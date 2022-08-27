@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "shaymaa mohamed",
+      "phone": "01019115867",
+      "email": "shaymaasho20683@gmail.com",
+      "address": "monshaat sief"
+    },
+    {
+      "id": 3,
+      "name": "shimaa mohamed",
+      "phone": "121231",
+      "email": "SHAIMAA.mohamed900723@ci.menofia.edu.eg",
+      "address": "224 E 125th St"
+    },
+    {
+      "id": 4,
+      "name": "Mohamed",
+      "phone": "01553482601",
+      "email": "mohamed@gmail.com",
+      "address": "444 Amsterdam Ave"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
